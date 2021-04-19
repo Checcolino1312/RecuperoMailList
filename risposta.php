@@ -9,6 +9,7 @@ include_once "connessione.php";
 <head>
     <title>redirect</title>
      <link href="stile.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     
     
