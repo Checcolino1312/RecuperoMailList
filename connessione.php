@@ -3,10 +3,10 @@
 
 <?php 
 
-$servername = "free-tier13.aws-eu-central-1.cockroachlabs.cloud";
-$username = "oraspot";
-$password = "26257;
-$databasename = "starry-pigeon-425.defaultdb";
+$servername = "31.11.39.64";
+$username = "Sql1592799@62.149.186.129";
+$password = "Francesco.2022";
+$databasename = "Sql1592799_2";
 
 //connessione
 $connection = new mysqli($servername,$username,$password,
