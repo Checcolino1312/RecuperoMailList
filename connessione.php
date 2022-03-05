@@ -3,10 +3,16 @@
 
 <?php 
 
-$servername = "31.11.39.64";
-$username = "Sql1592799@62.149.186.129";
-$password = "Francesco.2022";
-$databasename = "Sql1592799_2";
+
+
+
+$servername = "sql11.freesqldatabase.com";
+$username = "sql11406659";
+$password = "k7YJyqZ76z";
+$databasename = "sql11406659";
+
+
+
 
 //connessione
 $connection = new mysqli($servername,$username,$password,
